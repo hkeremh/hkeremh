@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 Hi I am Emir Kerem Sahin, a Computer Science student at Bilkent.
 Graduated from Ankara Ataturk Anadolu Lisesi
-Not much experience with programming yet but i wrote a basic calculator with python once.
 Email: keremkerem00987654321@gmail.com
 Instagram: hkeremh
-Hobbies include social media(wasting my time looking at unfunny jokes), watching TV series(mostly anime but i say TV series so people don't avoid me) and playing chess(i suck at it).
