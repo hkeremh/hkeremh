@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 Hi I am Emir Kerem Sahin, a Computer Science student at Bilkent.
 Graduated from Ankara Ataturk Anadolu Lisesi
 Email: keremkerem00987654321@gmail.com
-Instagram: hkeremh
